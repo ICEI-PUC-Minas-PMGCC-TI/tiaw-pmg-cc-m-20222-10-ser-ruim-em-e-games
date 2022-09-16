@@ -56,7 +56,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nos últimos anos jogar jogos digitais se tornou algo comum e cada vez mais pessoas estão explorando esse mundo, seja como lazer ou tratando o jogo como um esporte eletrônico. Como toda atividade competitiva, a prática e habilidade têm grande papel na performance de um jogador, e as vezes o caminho para aperfeiçoar seu desempenho não é muito claro, por isso muitas pessoas desistem de melhorar ou só param de jogar.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deves
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +76,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo ajudar as pessoas que não entendem como melhorar e buscam alavancar seu desempenho em jogos online, mais especificamente League of Legends e Valorant, dois jogos da Riot Games. A ideia inicial é um site que contenha dicas e videos explicativos de como melhorar em vários aspectos dos jogos. Mais especificamente, queremos que o usuário consiga escolher exatamente qual habilidade quer desenvolver e entregar um video ou texto ideal para o problema. Além disso, facilitar o contato entre um jogador ruim e um jogador experiente para que um consiga ajudar o outro.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +89,7 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Segundo análise feita pelo blog maisesports em 2022, 64,7% dos jogadores de LOL(League of Legends) está nos 3 ranques mais baixos, e outros 32,6% se encontram nos ranques que podemos chamar de medianos. Com certeza existem jogadores que não se importam com isso e só jogam pra se divertir, mas garantidamente existe uma parcela relevante que gostaria de melhorar o desempenho. Porém, hoje em dia apesar de exister conteúdo espalhado na internet, um novato ou veterano desprovido de habilidade não consegue encontrar com facilidade, e por isso nosso aplicativo vai disponibilizar o conteúdo necessário e com fácil acesso para esses jogadores com a vontade de aperfeiçoarem as diversas habilidades que queiram.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +105,7 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Embora jogar jogos online seja algo que qualquer pessoa pode fazer, delimitaremos o público alvo como jovens homens e mulheres de 14 a 25 anos que jogam os jogos abordados com frequência e tem dificuldade de encontrar conteúdo que os auxiliem a melhorar. Adicionalmente, pessoas dessa mesma faixa etária mais experientes que tenham conhecimento sobre os jogos para difundir e ensinar também serão alvo, especificamente ajundando com dicas e com sessões de coaching.
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
