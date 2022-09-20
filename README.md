@@ -4,12 +4,12 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Arthur Diniz Mordente
-* Fellipe Gabriel de Oliveira 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* André Luís Marques Antunes
+* Arthur diniz Mordente
+* Fellipe Gabriel de Oliveira
+* Leonardo Braga de Oliveira
+* Luis Arthur Campos Almeida
+* Vinicius Ferrer de Queiroz Eloy
 
 ## Professores responsáveis
 
