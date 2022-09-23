@@ -11,11 +11,14 @@
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - André Luís Marques Antunes
+> - Arthur Diniz Mordente
+> - Fellipe Gabriel de Oliveira
+> - Leonardo Braga de Oliveira
+> - Luis Arthur Campos Almeida
+> - Vinicius Ferrer de Queiroz Eloy
+
 
 # Estrutura do Documento
 
