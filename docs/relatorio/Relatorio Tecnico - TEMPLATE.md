@@ -9,7 +9,6 @@
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Os membros do grupo são: 
 > - André Luís Marques Antunes
