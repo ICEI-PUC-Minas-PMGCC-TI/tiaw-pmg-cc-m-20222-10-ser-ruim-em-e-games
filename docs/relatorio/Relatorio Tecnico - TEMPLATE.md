@@ -289,14 +289,6 @@ O quadro kanban do projeto, organizado pela equipe está disponivel na URL https
 
 ![image](https://user-images.githubusercontent.com/82046286/192120167-08047176-cad3-4081-88fa-ae8ed4d9eb64.png)
 
-
-
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
-
 ## Controle de Versão
 
 ......  COLOQUE AQUI O SEU TEXTO ......
