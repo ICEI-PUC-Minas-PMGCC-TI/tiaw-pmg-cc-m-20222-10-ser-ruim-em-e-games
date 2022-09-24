@@ -244,64 +244,40 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 
 # Metodologia
+Metodologia
+A metodologia é a parte do trabalho que é usada para organização do trabalho tanto na parte da equipe quando na parte das ferramentas usadas no desenvolvimento do nosso projeto.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ambientes de trabalho:
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+GITHUB-Repositorio para facilitar o trabalho em equipe a visualização do grupo, além de armazenar o trabalho fisicamente.
+https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-10-ser-ruim-em-e-games
 
-## Divisão de Papéis
+MarvelApp- Plataforma usada para criação de interfaçes e Wireframe
+https://marvelapp.com/prototype/e2b8gj1
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Trello- Plataforma usada para organização e gerenciamento do projeto.
+https://trello.com/b/qHfpGEGM/tiaw
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Gerenciamento do projeto
+Nossa equipe está trabalhando com a metodologia ágil Scrum, sendo assim a equipe foi dividida da seguinte forma:
+⦁	Scrum Master: Vinicius Ferrer
+⦁	Product Owner:Ilo Amy, Rommel Carneiro 
+⦁	Equipe de Desenvolvimento
+1.	Felipe Gabriel
+2.	Arthur Diniz
+3.	Leonardo
+4.	Luiz Arthur
+5.	Leonardo Braga
+6.	André Luis
+Estamos usando a plataforma trello para organização do projeto que está estruturada da seguinte maneira:
+⦁	Recursos- Nessa parte está localizada a legenda de cores que cita as etiquetas usadas para organizar todas as tarefas em andamento ou concluidas.
+⦁	To Do- Uma lista que representa todas as atividades que devem ser trabalhadas mas ainda não foram iniciadas.
+⦁	On Going- Outra lista, porém dessa vez de atividades já em desenvolvimento pela equipe.
+⦁	Done- Mais uma lista agora retratando as atividades e projetos terminados pelo grupo.
+⦁	Discarded- Projetos ou atividades que ocorreram problemas ou foram ideias descartadas pela equipe.
+O quadro kanban do projeto, organizado pela equipe está disponivel na URL https://trello.com/b/qHfpGEGM/tiaw, o estado do quadro no momento da entrega da 1 sprint é o seguinte: 
 
-
-## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
-| Ambiente  | Plataforma              |Link de Acesso |
-|-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
+inserir imagem kkkj
 > **Links Úteis - Hospedagem**:
 > - [Getting Started with Heroku](https://devcenter.heroku.com/start)
 > - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
