@@ -287,6 +287,10 @@ Estamos usando a plataforma trello para organização do projeto que está estru
 O quadro kanban do projeto, organizado pela equipe está disponivel na URL https://trello.com/b/qHfpGEGM/tiaw, o estado do quadro no momento da entrega da 1 sprint é o seguinte: 
 
 
+![image](https://user-images.githubusercontent.com/82046286/192120167-08047176-cad3-4081-88fa-ae8ed4d9eb64.png)
+
+
+
 > **Links Úteis - Hospedagem**:
 > - [Getting Started with Heroku](https://devcenter.heroku.com/start)
 > - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
