@@ -273,11 +273,17 @@ Nossa equipe está trabalhando com a metodologia ágil Scrum, sendo assim a equi
 6.	André Luis
 
 Estamos usando a plataforma trello para organização do projeto que está estruturada da seguinte maneira:
+
 ⦁	Recursos- Nessa parte está localizada a legenda de cores que cita as etiquetas usadas para organizar todas as tarefas em andamento ou concluidas.
+
 ⦁	To Do- Uma lista que representa todas as atividades que devem ser trabalhadas mas ainda não foram iniciadas.
+
 ⦁	On Going- Outra lista, porém dessa vez de atividades já em desenvolvimento pela equipe.
+
 ⦁	Done- Mais uma lista agora retratando as atividades e projetos terminados pelo grupo.
+
 ⦁	Discarded- Projetos ou atividades que ocorreram problemas ou foram ideias descartadas pela equipe.
+
 O quadro kanban do projeto, organizado pela equipe está disponivel na URL https://trello.com/b/qHfpGEGM/tiaw, o estado do quadro no momento da entrega da 1 sprint é o seguinte: 
 
 
