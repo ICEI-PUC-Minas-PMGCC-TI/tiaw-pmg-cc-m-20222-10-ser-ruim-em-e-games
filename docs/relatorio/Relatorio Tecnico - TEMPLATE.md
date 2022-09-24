@@ -105,6 +105,9 @@ Embora jogar jogos online seja algo que qualquer pessoa pode fazer, delimitaremo
 > 
 > 
 > **Exemplo de Persona**
+> Persona 1: 
+> Persona 2:
+> ![Persona 3]: Pedro Alves = (https://prnt.sc/f7SyepEjp0YY e https://prnt.sc/US-zo6Wf3aSO)
 > 
 > ![Exemplo de Persona](imaages/../images/persona.png)
 > 
