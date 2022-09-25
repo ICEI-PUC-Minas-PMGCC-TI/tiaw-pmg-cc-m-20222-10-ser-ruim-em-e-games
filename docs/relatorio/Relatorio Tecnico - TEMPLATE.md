@@ -80,7 +80,7 @@ Embora jogar jogos online seja algo que qualquer pessoa pode fazer, delimitaremo
 
 Após a entrevista definimos o ponto principal do nosso projeto, as partes que deveriam ser focadas e geramos a ideia inicial do nosso sistema, logo após imergimos nas personalidades das personas criadas para o projeto e moldamos nosso sistema a partir do que achamos que seria importante em relação ao tema abordado, consolidamos todos os aspectos citados acima nas personas e na historia do usuário.
 
-## Personas e Mapas de Empatia
+## Personas e Mapas de Empatia e Histórias de Usuários
 
 Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol porem uma lesão no joelho o impossibilitou de continuar. Porém, Pedro era muito competitivo e isso não o deixava em paz, forçando ele a procurar algum esporte alternativo para competir. Futuramente em sua vida, ele acabou perdendo o Pai de forma trágica e isso o reprimiu muito, mudou seu comportamento completamente, fazendo que ele ficasse mais em casa ao invés de ir se divertir com os amigos e brincar como uma criança normal... E foi assim que ele entrou pro mundo dos e-sports! Hoje Pedro é um atleta profissional de Rainbow Six Siege pela Isurus, onde ele põe todo seu empenho e talento como líder a prova comandando uma das melhores equipes do campeonato argentino e gerencia suas mídia produzindo conteúdo ,que funciona também como algo didático para seus fãs, em suas redes sociais com o intuito de evoluir sua comunidade ao máximo e tornala mais competitiva o possível junto com seu time.
 
@@ -98,25 +98,7 @@ Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol 
 > ![Persona 3]: Pedro Alves = (https://prnt.sc/f7SyepEjp0YY e https://prnt.sc/US-zo6Wf3aSO)
 
 
-## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
