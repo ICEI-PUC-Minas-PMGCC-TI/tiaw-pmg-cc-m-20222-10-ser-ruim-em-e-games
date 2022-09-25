@@ -83,7 +83,21 @@ Após a entrevista definimos o ponto principal do nosso projeto, as partes que d
 
 Giovana - 20 anos - Sempre gostou de se divertir e jogar jogos online com os amigos, mas devido às relações tóxicas do passado, acabou desenvolvendo traumas com alguns jogos mais competitivos e frenéticos, tendendo a jogar jogos mais tranquilos e relaxantes. Como esses eventos traumáticos aconteceram há certo tempo, disse estar disposta a voltar e melhorar suas habilidades in-game, principalmente no League of Legends(jogo que gostava bastante antes dos traumas) e também em outros jogos, como Valorant.
 
+![image](https://user-images.githubusercontent.com/82046286/192170868-a9782dbc-f31b-46c1-817b-8654cef0783a.png)
+
+![image](https://user-images.githubusercontent.com/82046286/192170874-0d3c8c5c-612b-4175-98c1-aa4f79e2d390.png)
+
+![image](https://user-images.githubusercontent.com/82046286/192170884-7b77ba74-b216-4d27-9eed-978657993255.png)
+
+
 Lucas Pontes - 21 anos - Gosta de jogar basicamente qualquer tipo de jogo online, mas tem um amor especial por jogos de FPS(first person shooting). Lucas prefere jogar sempre que pode, mas precisa conciliar o jogo com suas responsabilidades em casa, com isso dedica pouco tempo para melhorar suas habilidades in-game, mas se diz disposto a melhorar, pois sabe que ele pode ter um desempenho muito superior em suas partidas competitivas, principalmente jogando Valorant.
+
+![image](https://user-images.githubusercontent.com/82046286/192170899-714475a7-f36e-491d-8cbc-9e7cc41c8cba.png)
+
+![image](https://user-images.githubusercontent.com/82046286/192170903-f47a928f-fbe8-4dbf-ae4c-cc77f5f07808.png)
+
+![image](https://user-images.githubusercontent.com/82046286/192170915-581a8be8-5196-4152-ace4-9c662aef8afd.png)
+
 
 Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol porem uma lesão no joelho o impossibilitou de continuar. Porém, Pedro era muito competitivo e isso não o deixava em paz, forçando ele a procurar algum esporte alternativo para competir. Futuramente em sua vida, ele acabou perdendo o Pai de forma trágica e isso o reprimiu muito, mudou seu comportamento completamente, fazendo que ele ficasse mais em casa ao invés de ir se divertir com os amigos e brincar como uma criança normal... E foi assim que ele entrou pro mundo dos e-sports! Hoje Pedro é um atleta profissional de Rainbow Six Siege pela Isurus, onde ele põe todo seu empenho e talento como líder a prova comandando uma das melhores equipes do campeonato argentino e gerencia suas mídia produzindo conteúdo ,que funciona também como algo didático para seus fãs, em suas redes sociais com o intuito de evoluir sua comunidade ao máximo e tornala mais competitiva o possível junto com seu time.
 
@@ -92,17 +106,6 @@ Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol 
 ![image](https://user-images.githubusercontent.com/82046286/192169955-f05f42fa-0bad-439a-b5b2-b8e05dff2729.png)
 
 ![image](https://user-images.githubusercontent.com/82046286/192170129-e3290bfd-5fa8-4479-ac84-13b5cb7aa289.png)
-
-
-
-
-> 
-> **Personas**
-> Persona 1: Giovana = (https://prnt.sc/OjSZjKHuenMh e https://prnt.sc/47z3xgZmo1_F)
-> Persona 2: Lucas Pontes = (https://prnt.sc/srVb3hEF0Pqb e https://prnt.sc/wq78A5diqudo)
-> ![Persona 3]: Pedro Alves = (https://prnt.sc/f7SyepEjp0YY e https://prnt.sc/US-zo6Wf3aSO)
-
-
 
 
 ## Requisitos
