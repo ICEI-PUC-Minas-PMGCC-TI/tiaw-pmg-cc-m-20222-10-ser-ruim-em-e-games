@@ -82,7 +82,9 @@ Após a entrevista definimos o ponto principal do nosso projeto, as partes que d
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol porem uma lesão no joelho o impossibilitou de continuar. Porém, Pedro era muito competitivo e isso não o deixava em paz, forçando ele a procurar algum esporte alternativo para competir. Futuramente em sua vida, ele acabou perdendo o Pai de forma trágica e isso o reprimiu muito, mudou seu comportamento completamente, fazendo que ele ficasse mais em casa ao invés de ir se divertir com os amigos e brincar como uma criança normal... E foi assim que ele entrou pro mundo dos e-sports! Hoje Pedro é um atleta profissional de Rainbow Six Siege pela Isurus, onde ele põe todo seu empenho e talento como líder a prova comandando uma das melhores equipes do campeonato argentino e gerencia suas mídia produzindo conteúdo ,que funciona também como algo didático para seus fãs, em suas redes sociais com o intuito de evoluir sua comunidade ao máximo e tornala mais competitiva o possível junto com seu time.
+
+Mapa de Empatia Pedro Alves:https://miro.com/app/board/uXjVPXteqFc=/?moveToWidget=3458764534369239540&cot=14
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -101,7 +103,7 @@ Após a entrevista definimos o ponto principal do nosso projeto, as partes que d
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
+> **Personas**
 > Persona 1: Giovana = (https://prnt.sc/OjSZjKHuenMh e https://prnt.sc/47z3xgZmo1_F)
 > Persona 2: Lucas Pontes = (https://prnt.sc/srVb3hEF0Pqb e https://prnt.sc/wq78A5diqudo)
 > ![Persona 3]: Pedro Alves = (https://prnt.sc/f7SyepEjp0YY e https://prnt.sc/US-zo6Wf3aSO)
