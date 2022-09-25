@@ -248,6 +248,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
+Vinicius Ferrer de Queiroz Eloy- Design Thinking,Entrevista,Metodologia,Kanban,Scrum Master,Requisitos Funcionais e Não funcionais.
+Fellipe Gabriel de Oliveira-
+
 ## Ferramentas
 
 A metodologia é a parte do trabalho que é usada para organização do trabalho tanto na parte da equipe quando na parte das ferramentas usadas no desenvolvimento do nosso projeto.
