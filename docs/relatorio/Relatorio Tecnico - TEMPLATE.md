@@ -86,8 +86,10 @@ Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol 
 
 ![image](https://user-images.githubusercontent.com/82046286/192169951-a10e42bf-660c-4775-a9b7-98a7a9d4bc7b.png)
 
-
 ![image](https://user-images.githubusercontent.com/82046286/192169955-f05f42fa-0bad-439a-b5b2-b8e05dff2729.png)
+
+![image](https://user-images.githubusercontent.com/82046286/192170129-e3290bfd-5fa8-4479-ac84-13b5cb7aa289.png)
+
 
 
 
