@@ -221,7 +221,7 @@ A tela Problemas Val é a pagina onde haverá uma breve introdução sobre o jog
 
 ## Divisão de Papéis
 
-> - André Luís Marques Antunes
+> - André Luís Marques Antunes - Personas, Histórias dos usuários, Mapas de empatia
 > 
 > - Arthur Diniz Mordente - Introdução, Objetivos, Justificativa, Público alvo, , Metodologia. 
 > 
