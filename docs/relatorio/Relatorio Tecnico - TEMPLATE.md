@@ -96,10 +96,6 @@ Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol 
 > Persona 1: Giovana = (https://prnt.sc/OjSZjKHuenMh e https://prnt.sc/47z3xgZmo1_F)
 > Persona 2: Lucas Pontes = (https://prnt.sc/srVb3hEF0Pqb e https://prnt.sc/wq78A5diqudo)
 > ![Persona 3]: Pedro Alves = (https://prnt.sc/f7SyepEjp0YY e https://prnt.sc/US-zo6Wf3aSO)
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
 ## Histórias de Usuários
