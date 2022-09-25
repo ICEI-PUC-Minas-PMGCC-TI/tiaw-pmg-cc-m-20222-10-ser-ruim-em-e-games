@@ -152,7 +152,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Sistema responsivo | MÉDIA | 
 |RNF-002| Processamento rápido |  BAIXA |
 |RNF-003| O site deve ter suporte para linguas estrangeiras |  BAIXA |
-|RNF-004| Cada game deve ter sua página  |  ALTA |
+|RNF-004| Cada game deve ter sua PÁGINA  |  ALTA |
 |RNF-005| Cada PÁGINA deve ter sua própria paleta de cores (que sejam relacionadas com o game)  |  ALTA |
 
 
@@ -186,6 +186,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
@@ -248,8 +249,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-Vinicius Ferrer de Queiroz Eloy- Design Thinking,Entrevista,Metodologia,Kanban,Scrum Master,Requisitos Funcionais e Não funcionais.
-Fellipe Gabriel de Oliveira-
+> - André Luís Marques Antunes
+> 
+> - Arthur Diniz Mordente
+> 
+> - Fellipe Gabriel de Oliveira - Design Thinking, Entrevista, Metodologia, Requisitos Funcionais, Divisão de Papéis, Requisitos Não funcionais, ppt Apresentação. 
+> 
+> - Leonardo Braga de Oliveira
+> 
+> - Luis Arthur Campos Almeida
+> 
+> - Vinicius Ferrer de Queiroz Eloy - Design Thinking, Entrevista, Metodologia, Kanban, Scrum Master, Requisitos Funcionais e Não funcionais.
 
 ## Ferramentas
 
