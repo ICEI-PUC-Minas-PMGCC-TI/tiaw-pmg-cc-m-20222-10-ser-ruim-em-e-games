@@ -16,7 +16,7 @@ Ciências da Computação
 > - Arthur Diniz Mordente
 > - Fellipe Gabriel de Oliveira
 > - Leonardo Braga de Oliveira
-> - Luis Arthur Campos Almeida
+> - Luiz Arthur Campos Almeida
 > - Vinicius Ferrer de Queiroz Eloy
 
 
