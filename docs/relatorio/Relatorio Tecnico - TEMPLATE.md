@@ -243,7 +243,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
 
-# Metodologia
+## Metodologia
+
+# Divisão de Papéis
+
+# Ferramentas
 
 A metodologia é a parte do trabalho que é usada para organização do trabalho tanto na parte da equipe quando na parte das ferramentas usadas no desenvolvimento do nosso projeto.
 
