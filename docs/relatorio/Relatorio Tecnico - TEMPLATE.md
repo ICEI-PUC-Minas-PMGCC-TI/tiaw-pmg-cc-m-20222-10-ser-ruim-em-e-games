@@ -156,6 +156,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Sistema responsivo | MÉDIA | 
 |RNF-002| Processamento rápido |  BAIXA |
 |RNF-003| O site deve ter suporte para linguas estrangeiras |  BAIXA |
+|RNF-004| Cada game deve ter sua página  |  ALTA |
+|RNF-005| Cada PÁGINA deve ter sua própria paleta de cores (que sejam relacionadas com o game)  |  ALTA |
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
