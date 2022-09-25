@@ -211,25 +211,41 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![USERFLOW](images/userflow.png)
 
-
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem.
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+## Tela - Home Page
+
+![HOMEPAGE](images/homepage.png)
+
+A tela de home Page é a página inicial onde o usuário deve escolher o jogo que ele deseja se aprofundar sobre.
+Componentes: Há 2 botões que levarão o usuário a página sobre o jogo desejado
+
+## Tela - Probelmas LOL
+
+![PROBLEMASLOL](images/problemaslol.png)
+
+A tela Problemas lol é a pagina onde haverá uma breve introdução sobre o jogo e os principais problemas que atrapalham os players em sua jogatina.
+Componentes de Hud : o Hud se compõe de 3 botões, “Tela inicial” que leva o usuário para a Home Page, “pagina de aulas” que leva o usuário para a página Aulas lol, e o ultimo botão “seções “ que deixa o usuário manusear onde ele estará na página atual de problemas.
+
+## Tela - Aulas LOL
+
+![AULASLOL](images/aulaslol.png)
+
+Componente Pagina de aulas: é um botão no final da página que exerce a mesma função do botão no hud pagina de aulas.
+
+## Tela - Problemas Valorant
+
+![PROBLEMASVAL](images/problemasval.png)
+
+A tela Problemas Val é a pagina onde haverá uma breve introdução sobre o jogo e os principais problemas que atrapalham os players em sua jogatina. Apresenta os mesmos elementos da página de Problemas lol.
+
+## Tela - Aulas Valorant
+
+![AULASVAL](images/aulasval.png)
+
+[Protótipo Interativo](https://marvelapp.com/prototype/e2b8gj1)
 
 
 # Metodologia
@@ -238,7 +254,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > - André Luís Marques Antunes
 > 
-> - Arthur Diniz Mordente
+> - Arthur Diniz Mordente - Introdução, Objetivos, Justificativa, Público alvo, , Metodologia. 
 > 
 > - Fellipe Gabriel de Oliveira - Design Thinking, Entrevista, Metodologia, Requisitos Funcionais, Divisão de Papéis, Requisitos Não funcionais, ppt Apresentação. 
 > 
