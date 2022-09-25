@@ -80,7 +80,7 @@ Embora jogar jogos online seja algo que qualquer pessoa pode fazer, delimitaremo
 
 Após a entrevista definimos o ponto principal do nosso projeto, as partes que deveriam ser focadas e geramos a ideia inicial do nosso sistema, logo após imergimos nas personalidades das personas criadas para o projeto e moldamos nosso sistema a partir do que achamos que seria importante em relação ao tema abordado, consolidamos todos os aspectos citados acima nas personas e na historia do usuário.
 
-## Personas e Mapas de Empatia e Histórias de Usuários
+## Personas, Mapas de Empatia e Histórias de Usuários
 
 Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol porem uma lesão no joelho o impossibilitou de continuar. Porém, Pedro era muito competitivo e isso não o deixava em paz, forçando ele a procurar algum esporte alternativo para competir. Futuramente em sua vida, ele acabou perdendo o Pai de forma trágica e isso o reprimiu muito, mudou seu comportamento completamente, fazendo que ele ficasse mais em casa ao invés de ir se divertir com os amigos e brincar como uma criança normal... E foi assim que ele entrou pro mundo dos e-sports! Hoje Pedro é um atleta profissional de Rainbow Six Siege pela Isurus, onde ele põe todo seu empenho e talento como líder a prova comandando uma das melhores equipes do campeonato argentino e gerencia suas mídia produzindo conteúdo ,que funciona também como algo didático para seus fãs, em suas redes sociais com o intuito de evoluir sua comunidade ao máximo e tornala mais competitiva o possível junto com seu time.
 
