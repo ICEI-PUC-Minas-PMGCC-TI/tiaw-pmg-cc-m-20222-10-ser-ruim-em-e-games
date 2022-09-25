@@ -84,24 +84,13 @@ Após a entrevista definimos o ponto principal do nosso projeto, as partes que d
 
 Pedro Alves - 22 anos - Começou na infância almejando uma carreira no futebol porem uma lesão no joelho o impossibilitou de continuar. Porém, Pedro era muito competitivo e isso não o deixava em paz, forçando ele a procurar algum esporte alternativo para competir. Futuramente em sua vida, ele acabou perdendo o Pai de forma trágica e isso o reprimiu muito, mudou seu comportamento completamente, fazendo que ele ficasse mais em casa ao invés de ir se divertir com os amigos e brincar como uma criança normal... E foi assim que ele entrou pro mundo dos e-sports! Hoje Pedro é um atleta profissional de Rainbow Six Siege pela Isurus, onde ele põe todo seu empenho e talento como líder a prova comandando uma das melhores equipes do campeonato argentino e gerencia suas mídia produzindo conteúdo ,que funciona também como algo didático para seus fãs, em suas redes sociais com o intuito de evoluir sua comunidade ao máximo e tornala mais competitiva o possível junto com seu time.
 
-Mapa de Empatia Pedro Alves:https://miro.com/app/board/uXjVPXteqFc=/?moveToWidget=3458764534369239540&cot=14
+![image](https://user-images.githubusercontent.com/82046286/192169951-a10e42bf-660c-4775-a9b7-98a7a9d4bc7b.png)
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
+![image](https://user-images.githubusercontent.com/82046286/192169955-f05f42fa-0bad-439a-b5b2-b8e05dff2729.png)
+
+
+
 > 
 > **Personas**
 > Persona 1: Giovana = (https://prnt.sc/OjSZjKHuenMh e https://prnt.sc/47z3xgZmo1_F)
