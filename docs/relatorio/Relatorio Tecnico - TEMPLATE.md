@@ -382,12 +382,12 @@ O quadro kanban do projeto, organizado pela equipe está disponivel na URL https
 
 
 # Referências
+https://www.reddit.com/r/desabafos/comments/lbc85m/sou_muito_ruim_em_qualquer_jogo_pqp/​
 
-......  COLOQUE AQUI O SEU TEXTO ......
+https://trello.com/b/qHfpGEGM/tiaw​
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+https://marvelapp.com/prototype/e2b8gj1​
+
+https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-10-ser-ruim-em-e-games​
+
+https://www.tecmundo.com.br/voxel/especiais/178240-chega-de-noobice-6-dicas-para-melhorar-seu-desempenho-nas-partidas.htm​
