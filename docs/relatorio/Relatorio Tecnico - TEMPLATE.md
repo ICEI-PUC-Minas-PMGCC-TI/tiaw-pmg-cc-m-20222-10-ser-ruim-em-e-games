@@ -191,7 +191,7 @@ A tela Problemas Val é a pagina onde haverá uma breve introdução sobre o jog
 
 > - André Luís Marques Antunes - Personas, Histórias dos usuários, Mapas de empatia
 > 
-> - Arthur Diniz Mordente - Introdução, Objetivos, Justificativa, Público alvo, , Metodologia. 
+> - Arthur Diniz Mordente - Introdução, Objetivos, Justificativa, Público alvo, Metodologia. 
 > 
 > - Fellipe Gabriel de Oliveira - Design Thinking, Entrevista, Metodologia, Requisitos Funcionais, Divisão de Papéis, Requisitos Não funcionais, ppt Apresentação. 
 > 
@@ -224,7 +224,7 @@ Nossa equipe está trabalhando com a metodologia ágil Scrum, sendo assim a equi
 
 ⦁	Equipe de Desenvolvimento
 1.	Felipe Gabriel
-2.	Arthur Diniz
+2.	Arthur Mordente
 3.	Leonardo
 4.	Luiz Arthur
 5.	Leonardo Braga
