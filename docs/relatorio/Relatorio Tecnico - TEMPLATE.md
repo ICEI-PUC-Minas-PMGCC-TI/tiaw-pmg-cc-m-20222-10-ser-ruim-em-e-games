@@ -271,12 +271,10 @@ O quadro kanban do projeto, organizado pela equipe está disponivel na URL https
 >
 > ![Exemplo de Wireframe](images/Github-Workflow.png)
 
-# **############## SPRINT 1 ACABA AQUI #############**
-
-
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Trataremos agora sobre a parte tecnica do nosso projeto, discorrendo sobre as tecnologias utilizadas, arquitetura de solução, avaliação da nossa aplicação e os testes realizados para identificar os pontos fracos e fortes do nosso projeto.
+
 
 ## Tecnologias Utilizadas
 
