@@ -126,6 +126,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| Permitir a edição das dicas na pagina de dicas league of legends | ALTA  |
 |RF-009| Permitir a exclusão das dicas na pagina de dicas valorant | ALTA  |
 |RF-0010| Permitir a exclusão das dicas na pagina de dicas league of legends | ALTA  |
+|RF-0011| Tela inicial | ALTA  |
+|RF-0012| Tela de login | ALTA  |
+
 
 ### Requisitos não Funcionais
 
@@ -313,34 +316,30 @@ Além disso foram adicionadas novas paginas como por exemplo a de cadastro, para
 Os wireframes estão localizados no  - [Wireframes](#wireframes), onde pode se notar com mais clareza o que cada pagina citada acima possui de funcionalidade e a suas disposições na pagina.
 
 
+# Funcionalidades do Sistema (Telas)
+
+![image](https://user-images.githubusercontent.com/82046286/205471377-eabd75a3-a4dd-45dd-ab6c-2140bd2f80dd.png)
+
+A tela inicial onde o usuário deve escolher qual jogo ele quer prosseguir para visualizar as dicas. (RF-011)
+
+![image](https://user-images.githubusercontent.com/82046286/205471404-df54014f-392e-410d-b88a-60159d32430f.png)
+![image](https://user-images.githubusercontent.com/82046286/205471413-44e8e89c-b7cb-40f5-a1f5-475360e9927f.png)
+
+Tela de visualização de dicas para ambos os jogos. (RF-001 e RF-002)
+
+![image](https://user-images.githubusercontent.com/82046286/205471427-49a3f18b-0650-4a9e-838e-847a1e35ac6e.png)
+
+Tela para adicionar, editar e exlcuir dicas. (RF-005 a RF-010)(Todas foram unificadas em uma unica página)
+
+![image](https://user-images.githubusercontent.com/82046286/205471523-38635939-b7e2-45d5-bfbf-5806ca7dfc5b.png)
+
+Tela de cadastro (RF-004)
+
+![image](https://user-images.githubusercontent.com/82046286/205471548-66a88f7b-e8a6-4339-8d2b-ca10b3738490.png)
+
+Tela de login (RF-012)
 
 
-
-
-
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
-
-## Arquitetura da solução
-
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
 # Avaliação da Aplicação
