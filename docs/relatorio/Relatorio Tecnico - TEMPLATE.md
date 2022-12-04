@@ -340,15 +340,43 @@ Tela de cadastro (RF-004)
 Tela de login (RF-012)
 
 
+Todas foram realizadas nas sprints 2 e 3 pelos membros; Fellipe Gabriel, Arthur Mordente, Leonardo Braga e Vinicius Ferrer
+
+Artefatos da aplicação :
+
+conta.css
+estilos.css
+
+aulaslol.html
+aulasvalo.html
+cadastro.html
+cadconta.html
+coach.html
+index.html
+login.html
+
+aulaslol.js
+aulasvalo.js
+cadcoach.js
+conta.js
+
+para a visualização das paginas baixe a pasta base no github localizado no link: https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20222-10-ser-ruim-em-e-games
+descompacte em uma pasta e utilize o vs code com liveserver e navegue livremente pelas paginas citadas acima.
+
+
+
 
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+|Caso de teste    | Requisitos associados  | Objetivo | Passo a Passo | Criterios para o éxito |
+|------|-----------------------------------------|----| ------------- | ---------------------- |
+|CT-01| RF-001 e RF-002 | Visualizar as dicas armazenadas no mock e posteriormente adicionadas pelo usuário | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Verificar o carregamento das dicas | Dicas armazenadas no mock ou adicionadas pelo usuário exibidas com exíto |
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Visualizar dicas
+
+
+
 
 ## Plano de Testes
 
