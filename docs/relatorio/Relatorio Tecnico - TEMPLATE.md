@@ -46,10 +46,8 @@ Ciências da Computação
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-  - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
@@ -317,6 +315,7 @@ Os wireframes estão localizados no  - [Wireframes](#wireframes), onde pode se n
 
 
 # Funcionalidades do Sistema (Telas)
+# Plano de testes 
 
 ![image](https://user-images.githubusercontent.com/82046286/205471377-eabd75a3-a4dd-45dd-ab6c-2140bd2f80dd.png)
 
