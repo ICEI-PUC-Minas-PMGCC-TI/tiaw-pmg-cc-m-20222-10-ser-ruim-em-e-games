@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Kickoff Games</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../../assets/styles/estilos.css">
+</head>
+
+
+<body class="b" onload='logado()'>
+
+
+
+    <header class="container header">
+        <a href="../pagina_inicial/index.html"><img src="../../assets/imagens/Logo.png" class="logo"></a>
+
+        <div class="container_nav">
+
+            <nav class="nav menu1">
+                <a class="nav-link" href="../pagina_inicial/index.html">Menu</a>
+                <a class="nav-link" href="../aulas/cadastro_aulas.html">Adicionar Vídeo</a>
+                <a class="nav-link" href="../cad_coachs/coach.html">Cadastrar Usuário</a>
+                <a class="nav-link nav" href="../usuario/login.html" onclick='sair()'>Logout</a>
+                <div class="barra">
+                    <form class="form-inline ">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Pesquisar</button>
+
+                    </form>
+                </div>
+            </nav>
+
+        </div>
+
+    </header>
+
+
+
+    <main class="container main">
+
+        <div>
+            <h1 class="nome">Kickoff Games</h1>
+        </div>
+
+        <section class="row aulas">
+
+            <div id="formMembro">
+
+                <h2 class="titulo"> Membros da Kickoff Games </h2>
+
+                <p id="intro"> Aqui você pode adicionar seu perfil ao nosso catálogo de membros para encontrar pessoas
+                    para ajudar no que precisa. Adicione na descrição o que você busca encontrar no nosso site, note que
+                    em Avatar nós damos a possiblidade de adicionar um
+                    URL para uma imagem que te identifique, favor só preencher esse campo com URLs válidas. Para Editar
+                    ou apagar algum usuário, selecione-o no catálogo abaixo. Lembre-se que um usuário apagado só sera
+                    realmente excluído quando um moderador analisar a exclusão, até la ele so ficará invisível no
+                    catálogo.
+                    Por motivos de erro de código do nosso estagiário, ao selecionar um usuário para alteração ou
+                    exclusão, favor clicar longe do texto no bloco, agradecemos e estamos melhorando essa parte para seu
+                    conforto.</p>
+
+                <h3 class="espaco">Adicionar Membro</h3>
+
+                <div class="row">
+
+                    <div class="col-4 arruma">
+                        <h5>*Jogo:</h5> <select id="campoJogo" name="jogo">
+                            <option value="0" selected>Selecione...</option>
+                            <option value="1">LOL</option>
+                            <option value="2">Valorant</option>
+                        </select>
+                    </div>
+
+                    <div class="col-4 arruma">
+                        <h5>*Nome:</h5>
+                        <input type="text" id="campoNome" name="nome">
+                    </div>
+
+                    <div class="col-4 arruma">
+                        <h5>*Nickname:</h5>
+                        <input type="text" id="campoNick" name="nick">
+                    </div>
+
+                    <div class="col-4 arruma">
+                        <h5>*Função:</h5>
+                        <select id="campoFuncao" name="funcao">
+
+                            <option value="0" selected>Selecione...</option>
+                            <option value="1">Aluno</option>
+                            <option value="2">Coach</option>
+
+                        </select><br>
+                    </div>
+
+                    <div class="col-4 arruma">
+                        <h5>*Elo:</h5>
+                        <input type="text" id="campoElo" name="elo">
+                    </div>
+
+                    <div class="col-4 arruma">
+                        <h5>*Discord:</h5>
+                        <input type="text" id="campoDiscord" name="discord">
+                    </div>
+
+                    <div class="col-4 arruma">
+                        <h5>*Avatar:</h5>
+                        <input type="text" id="campoAvatar" name="avatar"><br>
+                    </div>
+
+                    <div class="col-4 arruma">
+                        <h5>*Apresentação:</h5>
+                        <textarea id="campoDescricao" name="descricao" rows="6" cols="50"></textarea><br>
+                    </div>
+
+                </div>
+
+                <p id="obg">(*) Campos obrigatórios</p>
+
+
+                <div id="confirma"></div>
+
+
+                <button id="botaoSalvar" class="btn btn-primary">Adicionar</button>
+                <button id="botaoAlterar" class="btn btn-primary">Editar</button>
+                <button id="botaoApagar" class="btn btn-primary">Apagar</button>
+            </div>
+        </section>
+
+
+
+        <section id="catJogadores" class="transp"></section>
+
+
+    </main>
+
+    <footer class="container footer">
+        <div class="Copyright">
+            <p>Copyright 2022 - Kickoff Games - ICEI Puc Minas.</p>
+        </div>
+    </footer>
+
+    <script src="../../assets/scripts/conta.js"></script>
+    <script src="../../assets/scripts/cadcoach.js"></script>
+
+</body>
+
+
+</html>
