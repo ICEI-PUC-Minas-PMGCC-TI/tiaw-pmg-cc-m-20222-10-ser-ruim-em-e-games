@@ -299,6 +299,16 @@ Bootstrap e Jquery
 
 Usados para facilitar a construção e manipulação dos dados e códigos de HTML, CSS E javascript
 
+![image](https://user-images.githubusercontent.com/82046286/205470910-52d5b4c5-4725-4c50-968c-9098e7fc10e3.png)
+
+Aqui está o userflow, como mostrado na imagem o usuário inicia na pagina onde pode selecionar o jogo o qual deseja prosseguir sua navegação, após isso é levado as respectivas paginas de cada jogo, onde poderá visualizar as dicas e entrar na pagina de cadastro, onde poderá submeter suas dicas para visualização do público geral.
+
+Além disso foram adicionadas novas paginas como por exemplo a de cadastro, para o usuário ter a possibilidade de fazer seu login.
+
+Os wireframes estão localizados no  - [Wireframes](#wireframes), onde pode se notar com mais clareza o que cada pagina citada acima possui de funcionalidade e a suas disposições na pagina.
+
+
+
 
 
 
