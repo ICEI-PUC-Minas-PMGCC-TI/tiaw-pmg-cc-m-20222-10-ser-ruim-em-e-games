@@ -385,7 +385,7 @@ Cadastrar o usuário e realizar login.
 
 |Caso de teste    | Requisitos associados  | Objetivo | Passo a Passo | Criterios para o éxito |
 |------|-----------------------------------------|----| ------------- | ---------------------- |
-|CT-03 RF-004 e RF-012Permitir que o usuário adiciona edite e exclua as dicas(submetidas por ele)  | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Entrar na parte de cadastro de dicas 4- Cadastrar as dicas 5- Editar suas dicas 6-Excluir sua dica | Observar na parte de exibição de dados suas dicas sendo adicionadas, editadas e excluidas. |
+|CT-03 RF-004 e RF-012 |Permitir que o usuário faça seu cadastro e login  | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Entrar na parte de cadastro  4- Se cadastrar  5- Fazer login | Conseguir criar e fazer login com sua conta sem ser impedido pelo sistema. |
 
 
 
