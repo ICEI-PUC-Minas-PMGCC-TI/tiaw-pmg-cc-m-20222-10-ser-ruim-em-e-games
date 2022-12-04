@@ -116,11 +116,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir a visualização das dicas | ALTA | 
-|RF-002| Permitir que usuário tenha acesso aos videos em formato de shorts   | ALTA |
-|RF-003| Permitir a criação de rotinas,treinos e metas   | ALTA  |
-|RF-004| Permitir o cadastro do usuário na parte paga   | ALTA  |
-
+|RF-001| Permitir a visualização das dicas-valorant| ALTA | 
+|RF-002| Permitir a visualização das dicas-league of legends| ALTA | 
+|RF-003| Permitir que usuário tenha acesso aos videos em formato de shorts   | ALTA |
+|RF-004| Permitir o cadastro do usuário  | ALTA  |
+|RF-005| Permitir adição de vídeos na pagina de dicas valorant   | ALTA  |
+|RF-006| Permitir adição de vídeos na pagina de dicas league of legends  | ALTA  |
+|RF-007| Permitir a edição das dicas na pagina de dicas valorant | ALTA  |
+|RF-008| Permitir a edição das dicas na pagina de dicas league of legends | ALTA  |
+|RF-009| Permitir a exclusão das dicas na pagina de dicas valorant | ALTA  |
+|RF-0010| Permitir a exclusão das dicas na pagina de dicas league of legends | ALTA  |
 
 ### Requisitos não Funcionais
 
