@@ -278,7 +278,30 @@ Trataremos agora sobre a parte tecnica do nosso projeto, discorrendo sobre as te
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Durante o desenvolvimento do projeto utilizamos diversas tecnologias são elas;
+
+VSCODE
+
+![image](https://user-images.githubusercontent.com/82046286/205470787-155b694d-7432-4458-b1cd-b6b61ec58a48.png)
+
+Utilizada para editar e compilar os códigos de HTML,CSS e Javascript
+
+GITHUB
+
+![image](https://user-images.githubusercontent.com/82046286/205470829-6477824c-79a4-4428-a43f-1bc5567ecc18.png)
+
+Utilizado para controle de versionamento e organização do projeto.
+
+Bootstrap e Jquery
+
+![image](https://user-images.githubusercontent.com/82046286/205470839-23c152a3-17be-47ed-a373-4ace4cc58ce0.png)
+![image](https://user-images.githubusercontent.com/82046286/205470857-c19168c6-5f59-44b2-a75c-3ba316a08c85.png)
+
+Usados para facilitar a construção e manipulação dos dados e códigos de HTML, CSS E javascript
+
+
+
+
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
