@@ -394,12 +394,9 @@ Cadastrar o usuário e realizar login.
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Todos os testes foram realizados com éxito, com os testes conseguimos identificar vários pontos fortes do nosso sistema, como a funcionalidade de todos os requisitos que ele se propõe a realizar utilizando-se das tecnologias que citamos acima.
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Foram identificados também alguns pontos fracos que foram corrigidos e trabalhados para serem aperfeiçoados e afim de manter a funcionalidade completa do nosso projeto.
 
 
 # Referências
