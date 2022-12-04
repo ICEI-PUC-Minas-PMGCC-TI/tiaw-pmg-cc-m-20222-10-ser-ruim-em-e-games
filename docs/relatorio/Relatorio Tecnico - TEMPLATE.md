@@ -377,7 +377,7 @@ Cadastrar, editar e excluir dicas.
 
 |Caso de teste    | Requisitos associados  | Objetivo | Passo a Passo | Criterios para o éxito |
 |------|-----------------------------------------|----| ------------- | ---------------------- |
-|CT-02| RF-005 a RF-010| Permitir que o usuário adiciona edite e exclua as dicas(submetidas por ele)  | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Entrar na parte de cadastro de dicas 4- Cadastrar as dicas 5- Editar suas dicas 6-Excluir sua dica | Observar na parte de exibição de dados suas dicas sendo adicionadas, editadas e excluidas. |
+|CT-02| RF-005 a RF-010| Permitir que o usuário adiciona edite e exclua as dicas(submetidas por ele)  | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Entrar na parte de cadastro de dicas 4- Cadastrar as dicas 5- Editar suas dicas, clicando nela na parte de visualização, ela automaticamente subirá para a parte de edição 6-Excluir sua dica clicando no botão exlcuir | Observar na parte de exibição de dados suas dicas sendo adicionadas, editadas e excluidas. |
 
 Cadastrar o usuário e realizar login.
 
