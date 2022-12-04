@@ -164,7 +164,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 A tela de home Page é a página inicial onde o usuário deve escolher o jogo que ele deseja se aprofundar sobre.
 Componentes: Há 2 botões que levarão o usuário a página sobre o jogo desejado
 
-## Tela - Probelmas LOL
+## Tela - Problemas LOL
 
 ![PROBLEMASLOL](images/problemaslol.png)
 
