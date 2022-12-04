@@ -369,28 +369,29 @@ descompacte em uma pasta e utilize o vs code com liveserver e navegue livremente
 
 # Avaliação da Aplicação
 
+Visualizar dicas.
+
 |Caso de teste    | Requisitos associados  | Objetivo | Passo a Passo | Criterios para o éxito |
 |------|-----------------------------------------|----| ------------- | ---------------------- |
-|CT-01| RF-001 e RF-002 | Visualizar as dicas armazenadas no mock e posteriormente adicionadas pelo usuário | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Verificar o carregamento das dicas | Dicas armazenadas no mock ou adicionadas pelo usuário exibidas com exíto |
+|CT-01| RF-001, RF-002 e RF-003 | Visualizar as dicas armazenadas no mock e posteriormente adicionadas pelo usuário | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Verificar o carregamento das dicas | Dicas armazenadas no mock ou adicionadas pelo usuário exibidas com exíto |
 
-Visualizar dicas
+Cadastrar, editar e excluir dicas.
+
+|Caso de teste    | Requisitos associados  | Objetivo | Passo a Passo | Criterios para o éxito |
+|------|-----------------------------------------|----| ------------- | ---------------------- |
+|CT-02| RF-005 a RF-010| Permitir que o usuário adiciona edite e exclua as dicas(submetidas por ele)  | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Entrar na parte de cadastro de dicas 4- Cadastrar as dicas 5- Editar suas dicas 6-Excluir sua dica | Observar na parte de exibição de dados suas dicas sendo adicionadas, editadas e excluidas. |
+
+Cadastrar o usuário e realizar login.
+
+|Caso de teste    | Requisitos associados  | Objetivo | Passo a Passo | Criterios para o éxito |
+|------|-----------------------------------------|----| ------------- | ---------------------- |
+|CT-03 RF-004 e RF-012Permitir que o usuário adiciona edite e exclua as dicas(submetidas por ele)  | 1-Abrir o live server 2-Escolher o jogo a ser visualizado 3- Entrar na parte de cadastro de dicas 4- Cadastrar as dicas 5- Editar suas dicas 6-Excluir sua dica | Observar na parte de exibição de dados suas dicas sendo adicionadas, editadas e excluidas. |
 
 
 
 
-## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
 
 ## Registros de Testes
 
