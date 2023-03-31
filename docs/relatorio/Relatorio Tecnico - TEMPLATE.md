@@ -123,8 +123,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| Permitir a edição das dicas na pagina de dicas league of legends | ALTA  |
 |RF-009| Permitir a exclusão das dicas na pagina de dicas valorant | ALTA  |
 |RF-0010| Permitir a exclusão das dicas na pagina de dicas league of legends | ALTA  |
-|RF-0011| Tela inicial | ALTA  |
-|RF-0012| Tela de login | ALTA  |
+|RF-0011| Permitir a criação de metas de coachs para alunos | MEDIA |
+|RF-0012| Permitir a criação de perfil de usuário | MEDIA  |
+|RF-0013| Tela de login | ALTA  |
+|RF-0014| Tela inicial | ALTA  |
 
 
 ### Requisitos não Funcionais
